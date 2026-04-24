@@ -1,0 +1,9 @@
+title: Tech Notes by chonaso
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
